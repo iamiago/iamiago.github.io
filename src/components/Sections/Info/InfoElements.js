@@ -32,7 +32,7 @@ export const InfoRow = styled.div`
     // ${({ imgStart }) => (imgStart ? `'col2 col1'` : `'col1 col2`)};
 
     @media screen and (max-width:768px){
-        grid-template-areas: "col1 col2";
+        grid-template-areas: "col1 col1 col2 ";
         // ${({ imgStart }) => (imgStart ? `'col1' 'col2'` : `'col1 col1' 'col2 col2' `)};
     }
 `;
