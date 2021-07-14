@@ -2,4 +2,4 @@
 
 ## The gh-pages branch has the built project
 
-[site](iamiago.github.io)
+[https://iamiago.github.io](https://iamiago.github.io)
